@@ -1,1 +1,1 @@
-## The vertical search engine is hosted on http://suleimaniac.eu.pythonanywhere.com/
+## The vertical search engine is hosted on http://suleimaniac.eu.pythonanywhere.com/ . As part of the requirements for the coursework, a video explaining how it all works can be found here: https://drive.google.com/file/d/1ErtLIpWWd3esHLoewX6MAwYqLIhm2Hpa/view?usp=share_link
